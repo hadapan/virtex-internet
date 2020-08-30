@@ -4,6 +4,8 @@
 
 #Vortex Indonesia
 
+#coding: utf-8
+
 import os,sys,time
 
  # SILAHKAN COSTUMISASI SENDIRI YA BOSQ #
@@ -44,7 +46,7 @@ def main():
 
         print (' [+] Silakan ketik cd virtexV2')
 
-        print (' [+] Silakan ketik python sh virtexV2.sh ')
+        print (' [+] Silakan ketik sh virtexV2.sh ')
 
         exit()
 
